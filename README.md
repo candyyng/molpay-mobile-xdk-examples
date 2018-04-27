@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/38641542/39343397-35c06f98-4a0f-11e8-920b-a28ccf483338.jpg">
+
 # molpay-mobile-xdk-examples
 This repo is the collection of MOLPay XDK example project. Please find the your platform tools integration guide at https://github.com/search?q=org%3AMOLPay+xdk .
 
