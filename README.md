@@ -1,3 +1,6 @@
+![MOLPay Technical Teams](https://github.com/MOLPay/Magento_Plugin/wiki/images/molpay-developer.jpg)
+
+
 # molpay-mobile-xdk-examples
 This repo is the collection of MOLPay XDK example project. Please find the your platform tools integration guide at https://github.com/search?q=org%3AMOLPay+xdk .
 
